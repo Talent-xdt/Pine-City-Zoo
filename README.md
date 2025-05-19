@@ -1,2 +1,2 @@
 # Pine City Zoo
-Tour guide or a fictional zoo
+An App for Tour guide for a fictional zoo
